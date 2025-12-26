@@ -36,5 +36,10 @@ export const BooksData = [
         title: "Viklang Shraddha Ka Daur",
         desc: "Harishankar Parsai",
         link: "https://www.amazon.in/Vikalang-Shraddha-Daur-Harishankar-Parsai/dp/812670117X?crid=39YRZSJ6DEBH3&dib=eyJ2IjoiMSJ9.h58Uz0kctt_BRa0-aYUdDwm_xkIWA8eeSLfOgrVhO7EpqT9UpM0yx7LKrv7bxRSEKvRGUSd97pvNjnC7fw1kX5CwRcS9CKN4Vm1v4x9SAhViS7TkamtLhO-28jUHrkC1e2OJAgX51flu9vEISeNNLMROaS_MRwqbwFxW9cclt-Uh4lonmA6Fm1NHdRshAcwL.qJXZd0BZRw9L6_sPm82wwadna9QK0v5Qs0AHllByf8A&dib_tag=se&keywords=viklang+shraddha+ka+daur+by+harishankar+parsai&nsdOptOutParam=true&qid=1734443899&sprefix=Vikla%2Caps%2C287&sr=8-1"
+    },
+    {
+        title: "Nexus",
+        desc: "Yuval Noah Harari",
+        link: "https://www.amazon.in/NEXUS-HARARI-YUVAL-NOAH/dp/1911717081"
     }
 ]
